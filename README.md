@@ -1,18 +1,23 @@
-***Projeto de um Portfolio***
+Just for study.
 
-***Ferramentas Utilizadas***
+
+
+
+**Portfolio Project**
+
+**Frameworks**
 
 VITE, TypeScript, ReactJS, NodeJS(version LTS)
 
-***Abrir e rodar o projeto***
+**Instructions for DEV**
 
-Para rodar o projeto sem nenhum erro é necessário realizar os procedimentos:
 
-instalação do NodeJS
+Clone this repository
 
-instalação de todas as dependências "npm i"
+NodeJS installation
 
- Projeto realizado no curso da Rocketseat.
+installation of all dependencies "npm install"
 
-<!-- Obrigado por tudo Deus! -->
+npm run dev - to run the application (with VITE)
 
+Project carried out in the course of Rocketseat.
