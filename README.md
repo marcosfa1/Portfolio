@@ -21,3 +21,7 @@ installation of all dependencies "npm install"
 npm run dev - to run the application (with VITE)
 
 Project carried out in the course of Rocketseat.
+
+**Project Screen**
+
+![Captura de tela de 2023-01-15 00-10-05](https://user-images.githubusercontent.com/22898773/212521244-a702e004-cd45-4dfa-a3ae-230ad6f73ae6.png)
